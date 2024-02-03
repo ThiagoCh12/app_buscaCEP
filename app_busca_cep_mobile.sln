@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app_busca_cep_mobile.Android", "app_busca_cep_mobile\app_busca_cep_mobile.Android\app_busca_cep_mobile.Android.csproj", "{0D73D8E7-C4D6-482E-B022-3FE04E8B093A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app_busca_cep_mobile", "app_busca_cep_mobile\app_busca_cep_mobile\app_busca_cep_mobile.csproj", "{98E4FEA5-3037-49FE-86BF-E2297CED9C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D73D8E7-C4D6-482E-B022-3FE04E8B093A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D73D8E7-C4D6-482E-B022-3FE04E8B093A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D73D8E7-C4D6-482E-B022-3FE04E8B093A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0D73D8E7-C4D6-482E-B022-3FE04E8B093A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D73D8E7-C4D6-482E-B022-3FE04E8B093A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D73D8E7-C4D6-482E-B022-3FE04E8B093A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{98E4FEA5-3037-49FE-86BF-E2297CED9C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E4FEA5-3037-49FE-86BF-E2297CED9C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E4FEA5-3037-49FE-86BF-E2297CED9C3B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{98E4FEA5-3037-49FE-86BF-E2297CED9C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E4FEA5-3037-49FE-86BF-E2297CED9C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98E4FEA5-3037-49FE-86BF-E2297CED9C3B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63BA0A07-7DE0-4112-A913-65BA6C6CC05F}
+	EndGlobalSection
+EndGlobal
